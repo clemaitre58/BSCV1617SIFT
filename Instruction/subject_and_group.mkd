@@ -26,6 +26,7 @@
 #Instructions for project management
 
 
+
 - Define a project leader
 - Fork (the project leader) from my account (clemaitre58) your project
 - Fork (all menber of project group) your project from the group leader
@@ -46,6 +47,7 @@ If they are  some conflicts the group leader will receive a message with details
 
 #Communication 
 
+
 I created a slack group, in order to transmit information without using email.
 The address of the slack group is : https://bscv1617cad1.slack.com
 
@@ -63,4 +65,40 @@ For which use?
 
 Here a tutorial for using slack : https://youtu.be/Ivn5jfKE_5M
 
+#Folder organisation
+
+.
+|-- Bibliography    # Folder the scientific article which define topic of your project
+|-- Code            # Folder that should be contain all conserning the code
+   |-- Function     # Place here all function and sub function
+   |-- Data         # Data to train, test your binary
+   |-- Test         # Test code here
+|-- Instruction     # All general information
+
+#Coding rules
+
+*NB: Inspired by google python coding guide : https://google.github.io/styleguide/pyguide.html*
+
+##Line length
+
+Maximum line length is 80 characters.
+
+Exceptions:
+- URLs in comments.
+
+##Naming
+
+- Functions lower_with_under()
+- Global/Class Constants CAPS_WITH_UNDER
+- Global/Class Variables lower_with_under
+- Instance Variables 	lower_with_under
+- Method Names 	lower_with_under()
+- Function/Method Parameters lower_with_under
+- Local Variables lower_with_under
+
+##BE CONSISTENT.
+
+If you're editing code, take a few minutes to look at the code around you and determine its style. If they use spaces around all their arithmetic operators, you should too. If their comments have little boxes of hash marks around them, make your comments have little boxes of hash marks around them too.
+
+The point of having style guidelines is to have a common vocabulary of coding so people can concentrate on what you're saying rather than on how you're saying it. We present global style rules here so people know the vocabulary, but local style is also important. If code you add to a file looks drastically different from the existing code around it, it throws readers out of their rhythm when they go to read it. Avoid this.
 
