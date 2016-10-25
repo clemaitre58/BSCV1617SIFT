@@ -1,37 +1,32 @@
 # SIFT
 
-- MERLET Antoine
-- ALI Mohamed
-- AHMED KHALID Fhad
+- MERLET Antoine
+- ALI Mohamed
+- AHMED KHALID Fhad
 - LAHAM Skylar
 
-
-# JPEG 2000
+# JPEG 2000
 
 - CORSIN Romain
-- DAVID Flavien
+- DAVID Flavien
 - AGBOHOUI Olivier
 - DESCHARRIERES Kévin
-
 
 # IBR and EBR
 
 - SAUCEDA Carlos
 - REIMMER Meldrick
-- BOUISSA Selma
+- BOUISSA Selma
 - SONIZARA Danie
 - PHAM Nhat
 
+# Instructions for project management
 
-#Instructions for project management
-
-
-
-- Define a project leader
-- Fork (the project leader) from my account (clemaitre58) your project
-- Fork (all menber of project group) your project from the group leader
+- Define a project leader;
+- Fork (the project leader) from my account (clemaitre58) your project;
+- Fork (all members of the project group) your project from the group leader
 - Read (all the group) the bibliography that I put on folder named «Bibliography»
-- Organise (the group leader) a brainstorming in order to check that all group understand the subject. After this you will able to :
+- Organise (the group leader) a brainstorming in order to check that all group understand the subject. After this you will able to:
 	* Define a solution
 	* Split code une workpackage (function or set of functions)
 	* Roadmap (define time of production and deadline of each workpackage - associate group members to workpacakage)
@@ -43,15 +38,15 @@ In the same manner the group leader have to make a pull request on my repository
 To make a pull request, just click in your Github repository the green button «Pull request». 
 If they are  some conflicts the group leader will receive a message with details conserning the confict. 
 
-*NB : it's the role of group leader to indicate the developers wich modifications he had to done to resolve the conflicts*
+*NB: it's the role of group leader to indicate the developers wich modifications he had to done to resolve the conflicts*
 
-#Communication 
+# Communication 
 
 
 I created a slack group, in order to transmit information without using email.
-The address of the slack group is : https://bscv1617cad1.slack.com
+The address of the slack group is: https://bscv1617cad1.slack.com
 
-There is 3 channels, one per project : 
+There is 3 channels, one per project:
 
 - bscv1617ibrebr
 - bscv1617jpeg2000
@@ -63,7 +58,7 @@ For which use?
 - Use slack to ask me question
 - for sharing document that have to place on github (i.e. roadmap)
 
-Here a tutorial for using slack : https://youtu.be/Ivn5jfKE_5M
+Here a tutorial for using slack: https://youtu.be/Ivn5jfKE_5M
 
 #Folder organisation
 
