@@ -12,6 +12,7 @@
 - AGBOHOUI Olivier
 - DESCHARRIERES Kévin
 
+
 # IBR and EBR
 
 - SAUCEDA Carlos
@@ -19,6 +20,7 @@
 - BOUISSA Selma
 - SONIZARA Danie
 - PHAM Nhat
+
 
 # Instructions for project management
 
@@ -39,6 +41,7 @@ To make a PR, just click in your GitHub repository the green button "Pull reques
 If they are some conflicts the group leader will receive a message with details concerning the conflict. 
 
 *NB: it is the role of group leader to indicate the developers which modifications they have to do to resolve the conflicts*
+
 
 # Communication 
 
